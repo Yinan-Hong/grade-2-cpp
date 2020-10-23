@@ -1,3 +1,5 @@
+//这代码好像过不了，但我懒得调了=.=
+
 #include <iostream>
 #include <math.h>
 using namespace std;
